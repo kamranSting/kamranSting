@@ -1,6 +1,6 @@
 # Kamran
 
-I'm based in London and moving into SOC and blue team work. My background is in regulated environments: compliance and AML risk work, legal administration in an OISC-regulated practice, and ten years leading language schools.
+I'm based in London and moving into SOC and blue team work. My background is in regulated environments: compliance and legal administration in an OISC-regulated practice, and ten years leading language schools.
 
 ## What I'm doing now
 
