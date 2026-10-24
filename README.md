@@ -5,7 +5,7 @@ I'm based in London and moving into SOC and blue team work. My background is in 
 ## What I'm doing now
 
 - Running a VirtualBox home lab: a pfSense firewall, a Windows 11 endpoint with Sysmon and the Splunk forwarder, and a Splunk Enterprise server.
-- Working through TryHackMe (Pre Security in progress).
+- Working through TryHackMe (Cyber Security 101).
 - Writing up what I build, including what went wrong and what I still can't explain.
 
 ## Certifications
