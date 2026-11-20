@@ -23,7 +23,7 @@ All on [kamranSting.github.io](https://kamranSting.github.io):
 ## Certifications
 
 - CompTIA Security+ (SY0-701), October 2026
-- Microsoft Azure Fundamentals (AZ-900), February 2023
+- Microsoft Azure Fundamentals (AZ-900)
 - TryHackMe Pre Security, July 2026
 
 ## Contact
